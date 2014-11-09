@@ -50,7 +50,7 @@ Once you have logged in, you may click on your username at the top. Here you can
 
 ## Getting started with the Tasking Manager
 
-You may view projects as a visitor, but to actively participate you must be logged into the Tasking Manager - use your OpenStreetMap account username & password. Open your Internet browser and go to [tasks.hotosm.org](http://tasks.hotosm.org). You will see a page like this:
+You may view projects as a super cool contributor, but to actively participate you must be logged into the Tasking Manager - use your OpenStreetMap account username & password. Open your Internet browser and go to [tasks.hotosm.org](http://tasks.hotosm.org). You will see a page like this:
 
 ![Tasking Manager Login][]
 
